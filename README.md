@@ -1,4 +1,4 @@
-# krishidost
+# krishidost  (built as a part of minor project)
 Krishidost is a smart farming advisor platform that helps farmers manage crops, detect diseases, and access weather alerts, even offline.
 
 Krishimitra is a web-based smart farming advisory platform designed to empower farmers with AI-driven tools for crop management, disease detection, weather forecasting, and offline accessibility. Developed using React and Firebase, Krishimitra aims to enhance agricultural productivity and sustainability.
